@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bayza.music/sitemap.xml
